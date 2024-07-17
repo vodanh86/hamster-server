@@ -7,7 +7,7 @@
 lib
 built
 types
-
+dist
 coverage
 
 docker-compose.ovverride.yml
